@@ -1,0 +1,39 @@
+USE lab_mysql;
+
+CREATE TABLE CARS (
+ID VARCHAR(50), 
+VIN VARCHAR(50), 
+Manufacturer VARCHAR(50), 
+Model VARCHAR(50), 
+Year VARCHAR(50), 
+Color VARCHAR(50)
+);
+
+CREATE TABLE CUSTOMERS (
+ID VARCHAR(50), 
+CustomerID VARCHAR(50), 
+NameSurname VARCHAR(50), 
+Phone VARCHAR(50), 
+Email VARCHAR(50), 
+Address VARCHAR(50), 
+City VARCHAR(50), 
+StateProvince VARCHAR(50), 
+Country VARCHAR(50), 
+Postal VARCHAR(10) 
+);
+
+CREATE TABLE SALESPERSONS (
+ID VARCHAR(50), 
+StaffID VARCHAR(50), 
+NameSurname VARCHAR(50), 
+Store VARCHAR(50)
+);
+
+CREATE TABLE INVOICES (
+ID VARCHAR(50), 
+InvoiceNumber VARCHAR(50), 
+DateX VARCHAR(50), 
+Car VARCHAR(50),
+Customer VARCHAR(50),
+SalesPerson VARCHAR(50)
+);
