@@ -1,0 +1,21 @@
+Link to the Tableau Dasboard:
+https://public.tableau.com/profile/laura.foulon#!/vizhome/NFLTeamPerformanceDashboard_15700420437330/Tableaudebord1
+
+
+Link to the Bonus Challenge:
+https://public.tableau.com/profile/laura.foulon#!/vizhome/BonusChallenge-CountriesoftheWorld/Tableaudebord1
+
+
+Question #5
+
+Considering the total number of games, do you think this advantage is significant?
+
+Answer : It is interesting to see that almost 280 more games are won when at home. The visualization make it rather clear the game location has an impact.
+
+
+
+Question #7
+
+Which team in 2016 had the highest percent of pass completions?
+
+The Minnesota Vikings has the highest percent of pass completions (0,7030).
